@@ -1,3 +1,6 @@
-streamlit
-google-api-python-client
-openai
+streamlit==1.56.0
+openai==2.31.0
+google-api-python-client==2.194.0
+google-auth==2.49.1
+google-auth-httplib2==0.3.1
+protobuf==7.34.1
